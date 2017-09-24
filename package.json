@@ -15,5 +15,19 @@
   "bugs": {
     "url": "https://github.com/pedrohtex/serverless-copy-s3-object/issues"
   },
-  "homepage": "https://github.com/pedrohtex/serverless-copy-s3-object#readme"
+  "homepage": "https://github.com/pedrohtex/serverless-copy-s3-object#readme",
+  "keywords": [
+    "lambda",
+    "amazon",
+    "aws",
+    "sts",
+    "serverless",
+    "s3",
+    "object",
+    "bucket",
+    "function"
+  ],
+  "dependencies": {
+    "aws-sdk": "^2.122.0"
+  }
 }
